@@ -1,0 +1,10 @@
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CopyComplete
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\mn250418\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
